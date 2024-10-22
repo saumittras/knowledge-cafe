@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "title": "Whispers of the Forgotten",
+    "author": "Liam Carter",
+    "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "posted_date": "2024-05-14",
+    "reading_time": 3,
+    "hashtags": ["#fiction", "#mystery", "#adventure"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1555685812-4b74333e9b30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "title": "Echoes of the Past",
+    "author": "Sophia Turner",
+    "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "posted_date": "2024-06-22",
+    "reading_time": 4,
+    "hashtags": ["#historical", "#drama", "#romance"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "title": "Journey to the Unknown",
+    "author": "Ava Johnson",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "posted_date": "2024-07-30",
+    "reading_time": 5,
+    "hashtags": ["#sci-fi", "#fantasy", "#exploration"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1544717305-2782549b5136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "title": "Shadows of Tomorrow",
+    "author": "Ethan Lee",
+    "author_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "posted_date": "2024-08-15",
+    "reading_time": 2.5,
+    "hashtags": ["#thriller", "#suspense", "#psychological"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1531256379410-7f512a4cf258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "title": "The Last Light",
+    "author": "Olivia Brown",
+    "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "posted_date": "2024-09-05",
+    "reading_time": 3.5,
+    "hashtags": ["#horror", "#supernatural", "#mystery"]
+  }
+]
