@@ -8,7 +8,11 @@ const Blogs = () => {
       .then((res) => res.json())
       .then((blogs_data) => setBlogs(blogs_data));
   });
-  return <div>{}</div>;
+  return (
+    <div className="md:w-2/3">
+      <h1 className="text-4xl">Blogs: {blogs.length}</h1>
+    </div>
+  );
 };
 
 export default Blogs;
